@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>485724597663-uebk5481fnmdanr6f6g6q3uai1hcf4d9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.485724597663-uebk5481fnmdanr6f6g6q3uai1hcf4d9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-VpBxwG_cZrRUNQUUiOOjhOVKYPCxpuA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485724597663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marcosecp.flutterbook</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-book-catalogue</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-book-catalogue.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485724597663:ios:0606cb80dc01d92f79e1aa</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-book-catalogue.firebaseio.com</string>
+</dict>
+</plist>

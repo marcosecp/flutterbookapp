@@ -1,6 +1,8 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:provider/provider.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'notesDBWorker.dart';
 import 'notesModel.dart' show Note, NotesModel, notesModel;
@@ -8,6 +10,7 @@ import 'notesModel.dart' show Note, NotesModel, notesModel;
 class NotesList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+
     return ScopedModel<NotesModel>(
       model: notesModel,
       child: ScopedModelDescendant<NotesModel>(
